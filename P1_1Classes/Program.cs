@@ -7,6 +7,7 @@ Print(person, animal, car);
 
 void Print(Person person, Animal animal, Car car)
 {
+    
     Console.WriteLine(person);
     Console.WriteLine(animal);
     Console.WriteLine(car);
