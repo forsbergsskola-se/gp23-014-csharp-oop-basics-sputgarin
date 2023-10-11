@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_1Replacing", "P4_1Replac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4Attack", "P4Attack\P4Attack.csproj", "{44FC2F9F-C910-4D41-BE3D-0F888904BADC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_2AllTheSame", "P4_2AllTheSame\P4_2AllTheSame.csproj", "{C90C3B7E-56EE-46D6-96AB-B568B068CC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "RPG\RPG.csproj", "{96A19104-AEFF-404F-8799-63E73055E17F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{44FC2F9F-C910-4D41-BE3D-0F888904BADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44FC2F9F-C910-4D41-BE3D-0F888904BADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44FC2F9F-C910-4D41-BE3D-0F888904BADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90C3B7E-56EE-46D6-96AB-B568B068CC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90C3B7E-56EE-46D6-96AB-B568B068CC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90C3B7E-56EE-46D6-96AB-B568B068CC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90C3B7E-56EE-46D6-96AB-B568B068CC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A19104-AEFF-404F-8799-63E73055E17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A19104-AEFF-404F-8799-63E73055E17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A19104-AEFF-404F-8799-63E73055E17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A19104-AEFF-404F-8799-63E73055E17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
