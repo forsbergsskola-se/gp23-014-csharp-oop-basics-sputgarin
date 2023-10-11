@@ -11,6 +11,11 @@ for (int i = 0; i < items.Length; i++)
     
 }
 
+for (int i = 0; i < items[i].goldValue; i++)
+{
+    Console.WriteLine(items[i].goldValue);
+}
+
 public class Item
 {
     public int goldValue;
