@@ -2,15 +2,15 @@
 
 public class House
 {
-    public bool door = false;
+    public bool isDoorOpen = false;
 
     public void OpenDoor()
     {
-        door = true;
+        isDoorOpen = true;
     }
     public void CloseDoor()
     {
-        door = false;
+        isDoorOpen = false;
     }
     
 }

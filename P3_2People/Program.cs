@@ -15,7 +15,5 @@ for (int i = 0; i < person.Length; i++)
 
 for (int i = 0; i < person.Length; i++)
 {
-    Console.WriteLine();
-    Console.WriteLine("You name is:");
-    Console.WriteLine(person[i].name);
+    person[i].Greeting();
 }
